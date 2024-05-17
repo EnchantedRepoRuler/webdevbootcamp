@@ -1,0 +1,44 @@
+#red{
+    color: red;
+    font-weight: normal;
+}
+#blue{
+    color: rgb(11, 162, 255);
+    font-weight: normal;
+}
+#orange{
+    color: orange;
+    font-weight: normal;
+}
+#green{
+    color: green;
+    font-weight: normal;
+}
+#yellow{
+    color: yellow;
+    font-weight: normal;
+}
+img[alt="red"]{
+    width: 200px;
+    height: 200px;
+}
+img[alt="blue"]{
+    width: 200px;
+    height: 200px;
+}
+img[alt="orange"]{
+    width: 200px;
+    height: 200px;
+}
+img[alt="green"]{
+    width: 200px;
+    height: 200px;
+}
+img[alt="yellow"]{
+    width: 200px;
+    height: 200px;
+}
+*{
+    color: WHITE;
+    background-color: black;
+}
